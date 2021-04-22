@@ -5,7 +5,7 @@ import mysql.connector as sql
 #                 port = '3306',
 #                 user = 'user1',
 #                 password = 'password',
-#                 database = 'learn_website'
+#                 database = 'oop_flask_and_mysql'
 #             )
 
 class DBHELPER:
