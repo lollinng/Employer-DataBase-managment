@@ -1,2 +1,2 @@
-create database bootstrap_flask
-use bootstrap_flask
+create database oop_flask_and_mysql
+use oop_flask_and_mysql
